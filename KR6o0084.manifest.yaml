@@ -36,7 +36,7 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6o0084_000.yaml, hash: 'sha256:8e98eb74eebcb8c302c8845f2cb70d16d0d5fb280e50e0ed0c6ef53b825edb2e'}
+  - {seq: 0, filename: KR6o0084_000.yaml, hash: 'sha256:33710f072399cfbb029005210272d26ac9c4e8939d635cd56e87cec163158a2c'}
   - {seq: 1, filename: KR6o0084_001.yaml, hash: 'sha256:168351d858cb46de8595a496bad3f1858a502646e1e61d4afff63edfc49faa48'}
   - {seq: 2, filename: KR6o0084_002.yaml, hash: 'sha256:dff97af32290c28219a3c13631ee8342497061b9f236bac87f856e31218f4d2a'}
   - {seq: 3, filename: KR6o0084_003.yaml, hash: 'sha256:816f08526df8cb170b1490a204d8d0282ab59233194cabcf17520b7b3ac00186'}
@@ -48,7 +48,7 @@ assets:
   - {seq: 9, filename: KR6o0084_009.yaml, hash: 'sha256:19dc0dc49fd5f1deff49c60c23f81fc8fbc4aa8ac358e750cd14ce2c8def5054'}
   - {seq: 10, filename: KR6o0084_010.yaml, hash: 'sha256:bdd1e6d13aca794be6613f0f02a96b8f84bf46217818d5e8743d9ee0b240c106'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6o0084_000.markers.yaml, hash: 'sha256:18c5c5cec50edf64788211669fc3582a6a1eb175288c6a126a13a9b13fb5c6f2'}
+  - {seq: 0, role: markers, filename: assets/KR6o0084_000.markers.yaml, hash: 'sha256:e685a33e7fc0421a73667723da76633cee85de3819b718a84e7b71bd5d3818a3'}
   - {seq: 1, role: markers, filename: assets/KR6o0084_001.markers.yaml, hash: 'sha256:d331ff6596885d1d02e50e555da58d7a10b8f6aec006b5f3d6423d5a5b8fd681'}
   - {seq: 2, role: markers, filename: assets/KR6o0084_002.markers.yaml, hash: 'sha256:1cac458532795f0eb2f452cf1c866de606d68ded7385985f66b3bdafa5fd067e'}
   - {seq: 3, role: markers, filename: assets/KR6o0084_003.markers.yaml, hash: 'sha256:b5afc98f55315b37b39ed6bfd81a7dd1a2b5c48ac3fc724e283f6425203be654'}
@@ -64,7 +64,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6o0084_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 釋摩訶衍論序
@@ -170,7 +170,7 @@ table_of_contents:
   label: 釋摩訶衍論卷第十
   type: juan
   level: 1
-hash: sha256:386a1985c12cc0c0933219d332631745f1190cb2a25f9a05be4388f91575b94b
+hash: sha256:a21ef7b5971a2fce0a6073ce0e25e7dba5fcd3ba8487ff0299fc47c0c8c58b73
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -19,7 +19,7 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6o0084_000-T.yaml, hash: 'sha256:08d6e0ab56660ab0c99a653a4744a00a4f735f58b03a73a1b8e947f3da59344c'}
+  - {seq: 0, filename: KR6o0084_000-T.yaml, hash: 'sha256:cbe6692107d655b008fd4d0234f503ba8062fa377c2326501646b4e51cfc1e37'}
   - {seq: 1, filename: KR6o0084_001-T.yaml, hash: 'sha256:892eec51e3bc21c95becda45288a863a9d774a99311444ecc997e434735c0ce7'}
   - {seq: 2, filename: KR6o0084_002-T.yaml, hash: 'sha256:8caf195bab4bd095c445c8c1c098987527b7dc396e09467c9e1c369cf6462fdd'}
   - {seq: 3, filename: KR6o0084_003-T.yaml, hash: 'sha256:0f91cc852443669d1b623d1c1eeb565d17981b63cb04f300265322f1d8435690'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6o0084_009-T.yaml, hash: 'sha256:9640e24e0b0573e4f44f57f30dd00e4c9a7392045cafc90439d1599c769e6111'}
   - {seq: 10, filename: KR6o0084_010-T.yaml, hash: 'sha256:db47ea0891b9f5c58b1b0f254035c432f558b4237197c3d160e7c9db03f798d8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6o0084_000-T.markers.yaml, hash: 'sha256:3c36610c8f0bfae58b30e9be3da35f64a4a5760c115516ff65980fb88ea7e23a'}
+  - {seq: 0, role: markers, filename: assets/KR6o0084_000-T.markers.yaml, hash: 'sha256:c45845b7cb9ab972de988f810d8d3df148d2940c0f9ac856422a85d8c50ea5b0'}
   - {seq: 1, role: markers, filename: assets/KR6o0084_001-T.markers.yaml, hash: 'sha256:83a00def56356020e7c88879e00a475330015628d443637af9f3f43713878035'}
   - {seq: 2, role: markers, filename: assets/KR6o0084_002-T.markers.yaml, hash: 'sha256:db301ada3c71697c869e2f130f978da3b0301ff3b05dc311ecc75a7a41e2bec9'}
   - {seq: 3, role: markers, filename: assets/KR6o0084_003-T.markers.yaml, hash: 'sha256:34cc5f1bacee5553c78b78ecd789e1ec2b89064893aba792a699792e17eee5d0'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6o0084_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 釋摩訶衍論序
@@ -153,4 +153,4 @@ table_of_contents:
   label: 釋摩訶衍論卷第十
   type: juan
   level: 1
-hash: sha256:162ba9487fd2bd8fa319763156a2d349c9e686fa6f937fc7040bb3c55e5c5a98
+hash: sha256:002330356a3885fa35c3b7cf843f628a6598ddd4dfcde7a80bba82a6b2c951a9
